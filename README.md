@@ -1,9 +1,9 @@
 # awaafo.github.io
-## HELLO!!! WELCOME
+
 
 
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/awa-afo/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm Awa Afo, a tech enthusiast with a strong focus on cybersecurity. Currently studying Computer Informational Systems (CIS) at CUNY Lehman College, I'm deeply passionate about using technology to create a safer digital world. 
 
