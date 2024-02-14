@@ -64,5 +64,8 @@ Outside of academics, I've participated in leadership programs like the Malave L
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Virtual Cybersecurity lab
+          <a href="[https://google.com](https://docs.google.com/presentation/d/1XOzvAxHPwkCkWY18hF5fPGK7rk7SW2tZE9Ii3XCDEWk/edit?usp=sharing)">Home Virtual Cybersecurity lab</a>|- 
+ <a href="[[https://google.com](https://docs.google.com/presentation/d/1XOzvAxHPwkCkWY18hF5fPGK7rk7SW2tZE9Ii3XCDEWk/edit?usp=sharing)](https://docs.google.com/presentation/d/12fV3l2ggcwbGNPo1XCg5GfdiiRjUHWoNAxSXiHQZdOw/edit?usp=sharing)">Home Virtual Cybersecurity lab</a>|- 
+      - 
+- 
