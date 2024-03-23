@@ -1,8 +1,9 @@
 # awaafo.github.io
 
 
-# Hello, I'm Awa A.  awaafo1023@gmail.com  | https://www.linkedin.com/in/awa-afo/ |
-<a href="[https://linkedin.com](https://www.linkedin.com/in/awa-afo/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Awa A. 
+
+ awaafo1023@gmail.com  | https://www.linkedin.com/in/awa-afo/ |
 
  Hi! I'm Awa Afo, an enthusiastic computer information systems student at CUNY Lehman College with a focus on cybersecurity. I'm currently completing a program in cybersecurity at The Knowledge House, where I'm gaining hands-on experience in penetration testing, vulnerability assessment, and threat intelligence. This program, combined with my existing project management and community engagement skills, makes me a well-rounded candidate.
 
