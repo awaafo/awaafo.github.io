@@ -376,7 +376,7 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 
 
 
-# SecureUtility Solutions Portfolio Template
+# SecureUtility Solutions 
 
 ## Company Overview
 
