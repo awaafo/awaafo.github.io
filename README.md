@@ -314,11 +314,105 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 - **Description**: 
   - Final security audit and compliance verification to ensure adherence to regulatory requirements.
   - Preparation of final deliverables, including:
-    - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): Complete codebase, scripts, configuration files, and documentation.
+
+  
+     - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): 
+  
+
     - [Technical Documentation](https://docs.google.com/document/u/0/d/18F5RVtH7YheWrJu7j6MWjmxt9cOYa26reOBiJKr3Ofo/edit) and [here](https://docs.google.com/document/u/0/d/1DO5UIMJGV99lI_BnqQ02fMFGponZ5mN774VpTodXgoY/edit) and [here](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Detailed design, implementation steps, security practices, and compliance measures.
-    - [Network Diagram](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Visual representation of project architecture, data flow, and encryption points.
-    - [APA 1750 Professional Paper](https://docs.google.com/document/u/0/d/1gYusICIlAs-3lkk-u8GDyXV6pKbt5CatSz1EQlzXcPQ/edit): Scholarly paper in APA format detailing methodologies, results, and conclusions.
-    - [Project Presentation](https://docs.google.com/presentation/u/0/d/1-MS0H6ERz9f-Mgbuv66Y6AVCNLSGlSUENfCYwCjQwbo/edit): Comprehensive summary highlighting project objectives, strategies, outcomes, and key findings for demonstration.
+
+  
+     - [Network Diagram](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Visual representation of project architecture, data flow, and encryption points.
+
+  
+
+      - [APA 1750 Professional Paper]((https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC)): 
+- **Introduction**: Explains the importance of securing sensitive financial data using AWS KMS and CloudHSM encryption strategies.
+  
+- **Methodology**: Details the design, implementation, and configuration of encryption with AWS services.
+  
+- **Results**: Presents performance metrics, security audit findings, and compliance verification outcomes.
+  
+- **Discussion**: Analyzes effectiveness in reducing data breach risks, meeting regulatory requirements, and addresses challenges.
+  
+- **Conclusion**: Summarizes project success in enhancing financial application security and provides recommendations for future enhancements.
+
+
+    - [Project Presentation](https://docs.google.com/presentation/u/0/d/1-MS0H6ERz9f-Mgbuv66Y6AVCNLSGlSUENfCYwCjQwbo/edit): 
+
+
+**Overview: Securing Sensitive Data with AWS KMS and Cloud HSM**
+
+- **Objectives**: Reduce data breach risks, ensure compliance, and strengthen data security.
+- **Implementation**: Utilize AWS KMS and CloudHSM for encryption and key management.
+- **Results**: Effective strategy, audit findings, and compliance verification.
+- **Future**: Recommendations for ongoing security enhancements.
+
+
+   
+
+
+
+# SecureUtility Solutions Portfolio Template
+
+## Company Overview
+
+SecureUtility Solutions is a leading cloud company specializing in secure management systems for utility companies worldwide. Our expertise lies in safeguarding sensitive data, including customer information and operational details, ensuring efficiency and compliance with regulatory standards.
+
+### What We Do
+
+- **Customer Information Management**: Securely manage customer account details, billing information, and preferences.
+- **Operational Data Management**: Efficiently handle meter readings, usage patterns, and maintenance schedules.
+- **Asset Management**: Track and maintain infrastructure like power lines and substations for reliability and safety.
+- **Billing and Payment Processing**: Streamline billing, payment processing, and customer account management.
+- **Analytics and Reporting**: Provide powerful tools for operational insights and informed decision-making.
+
+### Data Security Measures
+
+- **Encryption**: Industry-standard protocols encrypt data at rest and in transit to protect against unauthorized access.
+- **Access Control**: Strict role-based access ensures only authorized personnel can access sensitive data.
+- **Data Masking**: Techniques anonymize data for testing and analysis while preserving privacy.
+- **Regular Audits**: Ongoing security assessments identify and mitigate vulnerabilities.
+- **Compliance**: Adherence to GDPR, PCI-DSS, and HIPAA standards ensures data security and regulatory compliance.
+
+## User Roles and Permissions
+
+### Administrator
+
+- **Role**: Oversees AWS environment management and security.
+- **Permissions**: AWSKMSFullAccess, AWSCloudHSMFullAccess, IAMFullAccess.
+
+### Data Engineer
+
+- **Role**: Implements and manages data encryption mechanisms.
+- **Permissions**: AWSKMSFullAccess, AWSCloudHSMFullAccess, AmazonS3FullAccess, AmazonRDSFullAccess.
+
+### Security Analyst
+
+- **Role**: Monitors security events and compliance status.
+- **Permissions**: AWSKMSReadOnly, AWSCloudHSMReadOnly, CloudTrailReadOnlyAccess.
+
+### Developer
+
+- **Role**: Develops and integrates security features within applications.
+- **Permissions**: AWSKMSReadOnly, AmazonS3ReadOnlyAccess, AmazonRDSReadOnlyAccess.
+
+### Compliance Officer
+
+- **Role**: Ensures regulatory compliance for the financial application.
+- **Permissions**: AWSKMSReadOnly, CloudTrailReadOnlyAccess.
+
+## Secure Communication Channels
+
+- Secure HTTPS and TLS 1.2+ protocols ensure encrypted data transmission.
+- Private networking configurations (VPC, private subnets) restrict access to authorized users.
+- IAM policies and RBAC control access to sensitive resources like KMS, Cloud HSM, DynamoDB, and S3.
+
+By employing these comprehensive security measures, SecureUtility Solutions ensures the secure management of sensitive data for utility companies, enhancing reliability and customer confidence.
+
+
+
+
 
 ## Conclusion
 
