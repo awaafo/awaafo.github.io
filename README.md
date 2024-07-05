@@ -316,17 +316,38 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
   - Preparation of final deliverables, including:
 
   
-     - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): 
+     - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): Our GitHub repository contains the complete project codebase, scripts, configuration files, and detailed documentation. It includes a network diagram illustrating the project's architecture and data flow.
   
 
     - [Technical Documentation](https://docs.google.com/document/u/0/d/18F5RVtH7YheWrJu7j6MWjmxt9cOYa26reOBiJKr3Ofo/edit) and [here](https://docs.google.com/document/u/0/d/1DO5UIMJGV99lI_BnqQ02fMFGponZ5mN774VpTodXgoY/edit) and [here](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Detailed design, implementation steps, security practices, and compliance measures.
 
   
-     - [Network Diagram](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Visual representation of project architecture, data flow, and encryption points.
+     - [Network Diagram Overview for Securing Sensitive Data with AWS KMS and Cloud HS): 
+
+**Key Components:**
+- **AWS KMS (Key Management Service)**: Manages encryption keys securely for data protection.
+- **AWS CloudHSM**: Provides hardware security modules for cryptographic operations.
+- **Financial Application**: Handles sensitive data, integrating with KMS and CloudHSM for encryption.
+
+**Data Flow:**
+- Illustrates data movement and encryption points between components.
+- Demonstrates interactions among financial application, KMS, and CloudHSM.
+
+**Purpose:**
+- **Enhanced Security Understanding**: Visualizes and clarifies the system's security architecture.
+- **Identifies Encryption Points**: Clearly marks where data is encrypted and decrypted.
+- **Compliance and Audit**: Assists in demonstrating adherence to security standards.
+
+**Updated Diagram Enhancements:**
+- **IAM Integration**: Controls access to KMS and CloudHSM, ensuring authorized usage.
+- **DynamoDB and S3 Integration**: Securely stores encrypted financial data, enhancing scalability.
+- **Cloud HSM and HashiCorp Vault**: Ensures robust key security with hardware-based protection and centralized key management.
+- **Secure Protocols**: Utilizes HTTPS and TLS 1.2+ for data in transit, maintaining confidentiality.
+
 
   
 
-      - [APA 1750 Professional Paper](https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC): 
+  - [APA 1750 Professional Paper](https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC): 
 - **Introduction**: Explains the importance of securing sensitive financial data using AWS KMS and CloudHSM encryption strategies.
   
 - **Methodology**: Details the design, implementation, and configuration of encryption with AWS services.
