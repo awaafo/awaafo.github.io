@@ -313,12 +313,9 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 - **Date Range**: June 10 - June 26
 - **Description**: 
   - Final security audit and compliance verification to ensure adherence to regulatory requirements.
-  -
-
-  
-**The final deliverables, including:**
+  - Preparation of final deliverables, including:
     - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): Complete codebase, scripts, configuration files, and documentation.
-    - [Technical Documentation](https://docs.google.com/document/u/0/d/18F5RVtH7YheWrJu7j6MWjmxt9cOYa26reOBiJKr3Ofo/edit): Detailed design, implementation steps, security practices, and compliance measures.
+    - [Technical Documentation](https://docs.google.com/document/u/0/d/18F5RVtH7YheWrJu7j6MWjmxt9cOYa26reOBiJKr3Ofo/edit) and [here](https://docs.google.com/document/u/0/d/1DO5UIMJGV99lI_BnqQ02fMFGponZ5mN774VpTodXgoY/edit) and [here](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Detailed design, implementation steps, security practices, and compliance measures.
     - [Network Diagram](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Visual representation of project architecture, data flow, and encryption points.
     - [APA 1750 Professional Paper](https://docs.google.com/document/u/0/d/1gYusICIlAs-3lkk-u8GDyXV6pKbt5CatSz1EQlzXcPQ/edit): Scholarly paper in APA format detailing methodologies, results, and conclusions.
     - [Project Presentation](https://docs.google.com/presentation/u/0/d/1-MS0H6ERz9f-Mgbuv66Y6AVCNLSGlSUENfCYwCjQwbo/edit): Comprehensive summary highlighting project objectives, strategies, outcomes, and key findings for demonstration.
@@ -326,4 +323,3 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 ## Conclusion
 
 The "Securing Sensitive Data in a Financial Application with AWS KMS and Cloud HSM" project leverages advanced AWS services to establish a robust data encryption strategy. By integrating AWS KMS and CloudHSM, the project not only enhances data security but also ensures compliance with regulatory standards. This approach mitigates risks associated with data breaches and unauthorized access, providing a secure environment for sensitive financial information within the AWS cloud.
-
