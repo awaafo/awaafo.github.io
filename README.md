@@ -345,7 +345,9 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 - **Secure Protocols**: Utilizes HTTPS and TLS 1.2+ for data in transit, maintaining confidentiality.
 
 
-  
+
+
+
 
   - [APA 1750 Professional Paper](https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC): 
 - **Introduction**: Explains the importance of securing sensitive financial data using AWS KMS and CloudHSM encryption strategies.
