@@ -326,7 +326,7 @@ The project aims to implement a robust data encryption strategy using AWS Key Ma
 
   
 
-      - [APA 1750 Professional Paper]((https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC)): 
+      - [APA 1750 Professional Paper](https://drive.google.com/open?id=1AfIiOvFe6IBojvH1am6HdRbgjrVXHkvC): 
 - **Introduction**: Explains the importance of securing sensitive financial data using AWS KMS and CloudHSM encryption strategies.
   
 - **Methodology**: Details the design, implementation, and configuration of encryption with AWS services.
