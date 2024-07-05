@@ -216,3 +216,114 @@ In conclusion, we explored the value of cybersecurity training labs and the func
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+                                       **Project #3**
+
+
+
+
+
+# Securing Sensitive Data in a Financial Application with AWS KMS and Cloud HSM
+
+## Project Overview
+
+The project aims to implement a robust data encryption strategy using AWS Key Management Service (KMS) and AWS CloudHSM to safeguard sensitive financial data within an AWS cloud environment. By leveraging these AWS services, the project enhances data security, ensures compliance with regulatory standards, and strengthens overall data protection measures.
+
+### Project Objectives
+
+1. **Develop a Comprehensive Encryption Strategy**:
+   - Design and implement effective encryption techniques to protect sensitive financial data both at rest and in transit.
+   - Utilize AWS KMS for centralized key management to securely generate, store, and control access to encryption keys.
+
+2. **Enhance Data Security Posture**:
+   - Implement AWS CloudHSM for hardware-based key storage and cryptographic operations, ensuring high levels of security and compliance with industry standards.
+   - Integrate encryption mechanisms seamlessly into the financial application architecture to minimize vulnerabilities and potential risks.
+
+3. **Ensure Regulatory Compliance**:
+   - Meet regulatory requirements such as PCI-DSS, GDPR, and other industry-specific mandates by implementing strong encryption controls and data protection practices.
+   - Conduct regular security audits and compliance checks to verify adherence to regulatory guidelines and best practices.
+
+## AWS Project Links & Team Info
+
+### AWS Project Submission Link
+
+- [AWS Project Submission](https://d-9067fde5ff.awsapps.com/start)
+
+### Team Members
+
+- **Takala** - Team Leader
+- **Awa** - Project Manager
+- **Jaelin** - Technical Lead
+- **Mariana** - Technical Lead Support
+
+### Roles and Responsibilities
+
+- **Takala** - Responsible for training team members, setting strategy, and monitoring progress.
+- **Awa** - Identifies project goals, plans tasks, manages resources, and ensures timely deliverables.
+- **Jaelin** - Leads technical aspects, guides the team through challenges, and oversees implementation.
+- **Mariana** - Provides technical recommendations, assists in troubleshooting, and supports technical lead.
+
+## Sprint Deliverables Schedule
+
+### Sprint 1: Project Planning & Requirements Gathering
+
+- **Date Range**: April 15 - May 1
+- **Description**: 
+  - Initial project setup, including AWS environment configuration.
+  - Requirements gathering and analysis to define encryption strategy scope.
+  - Preliminary design of encryption workflows using AWS KMS and CloudHSM.
+
+### Sprint 2: Implementation of AWS KMS and CloudHSM
+
+- **Date Range**: April 29 - May 15
+- **Description**: 
+  - Implementation of AWS KMS for data encryption and key management.
+  - Configuration of AWS CloudHSM for secure key storage and cryptographic operations.
+  - Development of automation scripts for efficient key management and encryption processes.
+
+### Sprint 3: Integration and Initial Security Audit
+
+- **Date Range**: May 13 - May 29
+- **Description**: 
+  - Integration of encryption strategy with the financial application architecture.
+  - Testing encryption and decryption processes for data at rest and in transit.
+  - Conducting initial security audit and compliance checks to assess implementation effectiveness.
+
+### Sprint 4: Refinement and Documentation
+
+- **Date Range**: May 27 - June 12
+- **Description**: 
+  - Refinement of encryption strategy based on testing results and audit findings.
+  - Implementation of ongoing security hygiene practices and key rotation policies.
+  - Detailed documentation of encryption strategy, including design rationale and configuration details.
+
+### Sprint 5: Final Audit and Deliverables
+
+- **Date Range**: June 10 - June 26
+- **Description**: 
+  - Final security audit and compliance verification to ensure adherence to regulatory requirements.
+  -
+
+  
+**The final deliverables, including:**
+    - [GitHub Repository](https://github.com/DataDefenders/DataDefender-Capstone): Complete codebase, scripts, configuration files, and documentation.
+    - [Technical Documentation](https://docs.google.com/document/u/0/d/18F5RVtH7YheWrJu7j6MWjmxt9cOYa26reOBiJKr3Ofo/edit): Detailed design, implementation steps, security practices, and compliance measures.
+    - [Network Diagram](https://docs.google.com/document/u/0/d/1A8bGWO3GN4iIVTjpG6YF5j3duuz1_VBojEyzJC-Wlxg/edit): Visual representation of project architecture, data flow, and encryption points.
+    - [APA 1750 Professional Paper](https://docs.google.com/document/u/0/d/1gYusICIlAs-3lkk-u8GDyXV6pKbt5CatSz1EQlzXcPQ/edit): Scholarly paper in APA format detailing methodologies, results, and conclusions.
+    - [Project Presentation](https://docs.google.com/presentation/u/0/d/1-MS0H6ERz9f-Mgbuv66Y6AVCNLSGlSUENfCYwCjQwbo/edit): Comprehensive summary highlighting project objectives, strategies, outcomes, and key findings for demonstration.
+
+## Conclusion
+
+The "Securing Sensitive Data in a Financial Application with AWS KMS and Cloud HSM" project leverages advanced AWS services to establish a robust data encryption strategy. By integrating AWS KMS and CloudHSM, the project not only enhances data security but also ensures compliance with regulatory standards. This approach mitigates risks associated with data breaches and unauthorized access, providing a secure environment for sensitive financial information within the AWS cloud.
+
