@@ -1,18 +1,31 @@
 # awaafo.github.io
 
 
-# Hello, I'm Awa A. 
+## Hello, I'm Awa A.
+- Email: awaafo1023@gmail.com
+- LinkedIn: [Awa Afo](https://www.linkedin.com/in/awa-afo/)
 
- awaafo1023@gmail.com  | https://www.linkedin.com/in/awa-afo/ |
-
- Hi! I'm Awa Afo, an enthusiastic computer information systems student at CUNY Lehman College with a focus on cybersecurity. I'm currently completing a program in cybersecurity at The Knowledge House, where I'm gaining hands-on experience in penetration testing, vulnerability assessment, and threat intelligence. This program, combined with my existing project management and community engagement skills, makes me a well-rounded candidate.
+Hi! I'm Awa Afo, a computer information systems student at CUNY Lehman College with a focus on cybersecurity. Currently, I am completing a program in cybersecurity at The Knowledge House, gaining hands-on experience in penetration testing, vulnerability assessment, and threat intelligence. My dedication to cybersecurity excellence motivates me to stay ahead of emerging threats and technologies.
 
 
-## Objective
-My journey into cybersecurity has been exciting and fulfilling, driven by curiosity and a desire to protect digital assets.As part of an Innovation Fellowship in Cybersecurity at The Knowledge House, I'm diving into penetration testing, vulnerability assessment, and threat intelligence. This hands-on experience has broadened my technical skills and sharpened my problem-solving abilities.
+### Objective
+My journey into cybersecurity has been driven by curiosity and a desire to protect digital assets. As part of an Innovation Fellowship in Cybersecurity at The Knowledge House, I'm diving into penetration testing, vulnerability assessment, and threat intelligence.
 
-Outside of academics, I've participated in leadership programs like the Malave Leaders Program, where I've developed project management skills and collaborated on real-world cybersecurity challenges. My dedication to cybersecurity excellence motivates me to stay ahead of emerging threats and technologies.
+### Certifications
+| Certificate | Badge |
+|-------------|-------|
+| AWS Educate Getting Started with Databases | ![AWS Database Badge](images/aws_database_badge.png) |
+| AWS Educate Getting Started with Security | ![AWS Security Badge](images/aws_security_badge.png) |
+| AWS Educate Getting Started with Networking | ![AWS Networking Badge](images/aws_networking_badge.png) |
+| AWS Educate Getting Started with Storage | ![AWS Storage Badge](images/aws_storage_badge.png) |
+| AT&T 2024 Technology Academy | ![AT&T Technology Academy](images/att_technology_academy.png) |
 
+#### Skills Gained
+- Database management and optimization
+- Security operations and DevOps support
+- Networking essentials for AWS cloud functions
+- Storage solutions and management in AWS environments
+- Advanced technology skills from AT&T Technology Academy
 
 
 
